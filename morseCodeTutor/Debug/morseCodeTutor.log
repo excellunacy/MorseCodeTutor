@@ -1,1 +1,13 @@
-﻿  morseCodeTutor.vcxproj -> C:\Users\evanp\Desktop\CPrograms\morseCodeTutor\Debug\morseCodeTutor.exe
+﻿  main.cpp
+c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\main.cpp(165): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\main.cpp(551): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\main.cpp(554): warning C4244: 'argument': conversion from 'double' to 'uint16_t', possible loss of data
+c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\main.cpp(1957): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\main.cpp(1891): warning C4101: 'deciTimeUnits': unreferenced local variable
+  ShortHand.cpp
+c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\shorthand.cpp(169): warning C4244: '=': conversion from 'uint16_t' to 'char', possible loss of data
+c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\shorthand.cpp(193): warning C4244: '=': conversion from 'uint16_t' to 'char', possible loss of data
+c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\shorthand.cpp(218): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\shorthand.cpp(228): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+  Generating Code...
+  morseCodeTutor.vcxproj -> C:\Users\evanp\Desktop\CPrograms\morseCodeTutor\Debug\morseCodeTutor.exe

@@ -234,7 +234,6 @@ void startScreen()
 	drawTextCentered("MORSE CODE TUTOR", 0, 120);
 	setFontSize(2);
 	drawTextCentered("Welcome to the", 0, 90);
-	drawTextCentered("PC Port", 0, 165);
 	drawTextCentered("Press enter to continue", 0, 300);
 	SDL_RenderPresent(renderer);
 	while (true)
