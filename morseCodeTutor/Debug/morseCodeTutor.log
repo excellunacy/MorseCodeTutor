@@ -1,4 +1,1 @@
-﻿  ShortHand.cpp
-c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\shorthand.cpp(136): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
-c:\users\evanp\desktop\cprograms\morsecodetutor\morsecodetutor\shorthand.cpp(146): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
-  morseCodeTutor.vcxproj -> C:\Users\evanp\Desktop\CPrograms\morseCodeTutor\Debug\morseCodeTutor.exe
+﻿  morseCodeTutor.vcxproj -> C:\Users\evanp\Desktop\CPrograms\morseCodeTutor\Debug\morseCodeTutor.exe
